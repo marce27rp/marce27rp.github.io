@@ -1,0 +1,55 @@
+​
+<section id="problematica">
+    <h2> Problematica </h2>
+    
+    <p> En Cabo san Lucas existe una problemática bastante seria la cual es el calor y la dificultad para manejar las temperaturas en las viviendas, especialmente las de apoyo social.  Por eso mismo decidimos crear una simulación para analizar el comportamiento de distintos materiales aislantes para observar su funcionamiento y determinar si podrian ayudar. </p>
+    </section>
+<section id="clima">
+    <h2>¿Qué es el clima desértico?</h2>
+​
+    <p>
+        El clima desértico es un tipo de clima con muy poca lluvia,
+        altas temperaturas y grandes cambios entre el día y la noche.
+    </p>
+</section>
+​
+<section id="aislamiento">
+    <h2>Importancia del aislamiento térmico</h2>
+​
+    <p>
+        El aislamiento térmico ayuda a mantener temperaturas cómodas
+        dentro de la vivienda y reduce el consumo de energía.
+    </p>
+</section>
+​
+<section id="materiales">
+    <h2>Materiales recomendados</h2>
+​
+    <ul>
+        <li>Unicel</li>
+        <li>Fibra de vidrio</li>
+        <li>Paneles térmicos</li>
+        <li>Pintura reflectante</li>
+    </ul>
+</section>
+​
+<section id="conclusion">
+    <h2>Conclusión</h2>
+​
+    <p>
+        Utilizar soluciones térmicas sustentables permite ahorrar energía,
+        reducir gastos y mejorar la comodidad dentro de las viviendas.
+    </p>
+    </section>
+    
+    <section>
+<img 
+src= "https://marce27rp.github.io/Tabla.jpeg" width=25% height=50%>
+</section>
+​
+<footer>
+    <p>Proyecto escolar - 2026</p>
+</footer>
+
+</body>
+</html>
